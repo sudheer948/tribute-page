@@ -21,4 +21,4 @@ It demonstrates:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sudheer948/tribute-page.git
+   git clone https://sudheer948.github.io/tribute-page/
