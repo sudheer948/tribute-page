@@ -1,14 +1,24 @@
-# Tribute Page
+# 🏛️ Tribute Page
 
-A simple and responsive tribute page created using HTML and CSS.
+A responsive tribute page built using HTML5 and CSS3.  
+This page honors a person I admire and showcases simple web design with clear structure and styling.
+
+![Screenshot](./tribute-screenshot.png)
+
+---
 
 ## 🔍 Description
 
-This project is part of my web development roadmap.  
-It demonstrates semantic HTML, basic CSS styling, and a clean layout.
+This project is part of my **10-month roadmap** to become a high-package full-stack developer.  
+It demonstrates:
+- Clean semantic HTML structure
+- Organized CSS styling with layout and spacing
+- A respectful tone and well-presented biography
+
+---
 
 ## 🚀 How to Run
 
-1. Clone the repo:
-```bash
-git clone https://github.com/your-username/tribute-page.git
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/sudheer948/tribute-page.git
