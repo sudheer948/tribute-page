@@ -3,7 +3,7 @@
 A responsive tribute page built using HTML5 and CSS3.  
 This page honors a person I admire and showcases simple web design with clear structure and styling.
 
-![Screenshot](./tribute-screenshot.png)
+![Screenshot](./assets/Screenshot%202025-06-30%20100738.png)
 
 ---
 
